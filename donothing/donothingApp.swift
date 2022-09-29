@@ -10,8 +10,10 @@ import SwiftUI
 @main
 struct donothingApp: App {
     var body: some Scene {
+        
         WindowGroup {
             ContentView()
+                
         }
     }
 }
